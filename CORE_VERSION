@@ -1,6 +1,6 @@
-core cba0bcad42b3e91c
-runner a9b7c55+uncommitted
-published 2026-11-18 22:24:02 UTC
+core 223c857861ff56d4
+runner 6a0a855
+published 2026-11-18 18:13:55 EST
 
 pokercore/ is generated from the tournament runner and must not be edited.
 `python3 play.py ...` prints the core's fingerprint; it should match the first line.
